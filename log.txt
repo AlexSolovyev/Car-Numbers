@@ -1,0 +1,189 @@
+[2020-03-27 09:59:09,242][INFO] - VideoReader: Create VideoReader
+[2020-03-27 09:59:09,252][INFO] - IcrStream: Create OcrStream
+[2020-03-27 09:59:09,254][INFO] - VideoWriter: Create VideoWriter
+[2020-03-27 09:59:09,254][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-27 09:59:09,254][INFO] - CNDProject: Start Project
+[2020-03-27 09:59:09,254][INFO] - CNDProject: Start project act start
+[2020-03-27 09:59:09,254][INFO] - VideoReader: Start VideoReader
+[2020-03-27 09:59:09,267][INFO] - IcrStream: Start OcrStream
+[2020-03-27 09:59:09,267][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-27 09:59:09,668][INFO] - IcrStream: FPS: 0
+[2020-03-27 09:59:09,714][ERROR] - IcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/alex/final_version_ocr/project (car numbers)/ocr_stream.py", line 37, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/alex/final_version_ocr/project (car numbers)/worker/video_reader.py", line 26, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-27 09:59:09,715][INFO] - CNDProject: Stop Project
+[2020-03-27 09:59:09,715][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 09:59:09,716][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 09:59:09,716][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 09:59:09,717][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-27 09:59:09,724][INFO] - CNDProject: Stop Project
+[2020-03-27 09:59:09,724][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 09:59:09,724][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 09:59:09,725][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 09:59:09,725][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-27 10:00:10,867][INFO] - VideoReader: Create VideoReader
+[2020-03-27 10:00:10,877][INFO] - IcrStream: Create OcrStream
+[2020-03-27 10:00:10,879][INFO] - VideoWriter: Create VideoWriter
+[2020-03-27 10:00:10,880][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-27 10:00:10,880][INFO] - CNDProject: Start Project
+[2020-03-27 10:00:10,880][INFO] - CNDProject: Start project act start
+[2020-03-27 10:00:10,880][INFO] - VideoReader: Start VideoReader
+[2020-03-27 10:00:10,897][INFO] - IcrStream: Start OcrStream
+[2020-03-27 10:00:10,897][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-27 10:00:11,321][INFO] - IcrStream: FPS: 0
+[2020-03-27 10:00:11,854][INFO] - IcrStream: FPS: 0
+[2020-03-27 10:00:12,466][INFO] - IcrStream: FPS: 72.0
+[2020-03-27 10:00:12,936][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:00:13,640][INFO] - IcrStream: FPS: 60.0
+[2020-03-27 10:00:14,146][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:00:14,567][INFO] - IcrStream: FPS: 56.0
+[2020-03-27 10:00:15,004][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:00:15,380][INFO] - IcrStream: FPS: 54.0
+[2020-03-27 10:00:15,816][INFO] - IcrStream: FPS: 60.0
+[2020-03-27 10:00:16,344][INFO] - IcrStream: FPS: 52.8
+[2020-03-27 10:00:16,910][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:00:17,407][INFO] - IcrStream: FPS: 52.0
+[2020-03-27 10:00:17,794][ERROR] - IcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/alex/final_version_ocr/project (car numbers)/ocr_stream.py", line 37, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/alex/final_version_ocr/project (car numbers)/worker/video_reader.py", line 26, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-27 10:00:17,796][INFO] - CNDProject: Stop Project
+[2020-03-27 10:00:17,796][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 10:00:17,797][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 10:00:17,797][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 10:00:51,751][INFO] - VideoReader: Create VideoReader
+[2020-03-27 10:00:51,760][INFO] - IcrStream: Create OcrStream
+[2020-03-27 10:00:51,763][INFO] - VideoWriter: Create VideoWriter
+[2020-03-27 10:00:51,763][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-27 10:00:51,763][INFO] - CNDProject: Start Project
+[2020-03-27 10:00:51,763][INFO] - CNDProject: Start project act start
+[2020-03-27 10:00:51,763][INFO] - VideoReader: Start VideoReader
+[2020-03-27 10:00:51,773][INFO] - IcrStream: Start OcrStream
+[2020-03-27 10:00:51,773][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-27 10:00:52,465][INFO] - IcrStream: FPS: 0
+[2020-03-27 10:00:52,920][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:00:53,431][INFO] - IcrStream: FPS: 72.0
+[2020-03-27 10:00:53,963][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:00:54,460][INFO] - IcrStream: FPS: 60.0
+[2020-03-27 10:00:55,008][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:00:55,463][INFO] - IcrStream: FPS: 56.0
+[2020-03-27 10:00:55,729][INFO] - IcrStream: FPS: 64.0
+[2020-03-27 10:00:56,198][INFO] - IcrStream: FPS: 54.0
+[2020-03-27 10:00:56,635][INFO] - IcrStream: FPS: 60.0
+[2020-03-27 10:00:57,089][INFO] - IcrStream: FPS: 52.8
+[2020-03-27 10:00:57,577][INFO] - IcrStream: FPS: 57.6
+[2020-03-27 10:00:58,212][INFO] - IcrStream: FPS: 52.0
+[2020-03-27 10:00:58,643][ERROR] - IcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/alex/final_version_ocr/project (car numbers)/ocr_stream.py", line 37, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/alex/final_version_ocr/project (car numbers)/worker/video_reader.py", line 26, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-27 10:00:58,644][INFO] - CNDProject: Stop Project
+[2020-03-27 10:00:58,644][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 10:00:58,646][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 10:00:58,646][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 10:00:58,647][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-27 10:01:47,354][INFO] - VideoReader: Create VideoReader
+[2020-03-27 10:01:47,363][INFO] - IcrStream: Create OcrStream
+[2020-03-27 10:01:47,366][INFO] - VideoWriter: Create VideoWriter
+[2020-03-27 10:01:47,366][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-27 10:01:47,366][INFO] - CNDProject: Start Project
+[2020-03-27 10:01:47,366][INFO] - CNDProject: Start project act start
+[2020-03-27 10:01:47,366][INFO] - VideoReader: Start VideoReader
+[2020-03-27 10:01:47,402][INFO] - IcrStream: Start OcrStream
+[2020-03-27 10:01:47,402][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-27 10:01:47,997][INFO] - IcrStream: FPS: 0
+[2020-03-27 10:01:48,605][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:01:49,183][INFO] - IcrStream: FPS: 72.0
+[2020-03-27 10:01:49,442][ERROR] - IcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/alex/final_version_ocr/project (car numbers)/ocr_stream.py", line 37, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/alex/final_version_ocr/project (car numbers)/worker/video_reader.py", line 26, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-27 10:01:49,443][INFO] - CNDProject: Stop Project
+[2020-03-27 10:01:49,443][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 10:01:49,445][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 10:01:49,445][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 10:01:49,446][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-27 10:01:49,449][INFO] - CNDProject: Stop Project
+[2020-03-27 10:01:49,449][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 10:01:49,449][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 10:01:49,449][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 10:01:49,449][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-27 10:02:27,455][INFO] - VideoReader: Create VideoReader
+[2020-03-27 10:02:27,465][INFO] - IcrStream: Create OcrStream
+[2020-03-27 10:02:27,467][INFO] - VideoWriter: Create VideoWriter
+[2020-03-27 10:02:27,467][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-27 10:02:27,467][INFO] - CNDProject: Start Project
+[2020-03-27 10:02:27,467][INFO] - CNDProject: Start project act start
+[2020-03-27 10:02:27,467][INFO] - VideoReader: Start VideoReader
+[2020-03-27 10:02:27,485][INFO] - IcrStream: Start OcrStream
+[2020-03-27 10:02:27,485][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-27 10:02:28,083][INFO] - IcrStream: FPS: 0
+[2020-03-27 10:02:28,694][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:02:29,230][INFO] - IcrStream: FPS: 72.0
+[2020-03-27 10:02:29,692][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:02:30,168][INFO] - IcrStream: FPS: 60.0
+[2020-03-27 10:02:30,629][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:02:31,260][INFO] - IcrStream: FPS: 56.0
+[2020-03-27 10:02:31,840][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:02:32,384][INFO] - IcrStream: FPS: 54.0
+[2020-03-27 10:02:32,702][ERROR] - IcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/alex/final_version_ocr/project (car numbers)/ocr_stream.py", line 37, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/alex/final_version_ocr/project (car numbers)/worker/video_reader.py", line 26, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-27 10:02:32,703][INFO] - CNDProject: Stop Project
+[2020-03-27 10:02:32,703][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 10:02:32,705][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 10:02:32,705][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 10:02:32,705][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-27 10:02:32,710][INFO] - CNDProject: Stop Project
+[2020-03-27 10:02:32,710][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 10:02:32,710][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 10:02:32,710][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 10:02:32,710][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-27 10:03:09,193][INFO] - VideoReader: Create VideoReader
+[2020-03-27 10:03:09,203][INFO] - IcrStream: Create OcrStream
+[2020-03-27 10:03:09,205][INFO] - VideoWriter: Create VideoWriter
+[2020-03-27 10:03:09,205][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-27 10:03:09,205][INFO] - CNDProject: Start Project
+[2020-03-27 10:03:09,205][INFO] - CNDProject: Start project act start
+[2020-03-27 10:03:09,205][INFO] - VideoReader: Start VideoReader
+[2020-03-27 10:03:09,223][INFO] - IcrStream: Start OcrStream
+[2020-03-27 10:03:09,224][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-27 10:03:09,735][INFO] - IcrStream: FPS: 0
+[2020-03-27 10:03:10,245][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:03:10,725][INFO] - IcrStream: FPS: 72.0
+[2020-03-27 10:03:11,225][INFO] - IcrStream: FPS: 48.0
+[2020-03-27 10:03:11,510][INFO] - IcrStream: FPS: 60.0
+[2020-03-27 10:03:11,522][ERROR] - IcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/alex/final_version_ocr/project (car numbers)/ocr_stream.py", line 37, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/alex/final_version_ocr/project (car numbers)/worker/video_reader.py", line 26, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-27 10:03:11,523][INFO] - CNDProject: Stop Project
+[2020-03-27 10:03:11,523][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 10:03:11,527][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 10:03:11,527][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 10:03:11,528][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-27 10:03:11,551][INFO] - CNDProject: Stop Project
+[2020-03-27 10:03:11,551][INFO] - VideoReader: Stop VideoReader
+[2020-03-27 10:03:11,551][INFO] - IcrStream: Stop OcrStream
+[2020-03-27 10:03:11,551][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-27 10:03:11,551][INFO] - VideoWriter: Stop VideoWriter

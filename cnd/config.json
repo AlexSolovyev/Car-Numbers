@@ -1,0 +1,7 @@
+{
+  "ocr_image_size": [32, 80],
+  "data_path": "NumBase/",
+  "num_input_channels": 1,
+  "rnn_size": 512,
+  "alphabet": "-ABEKMHOPCTYX0123456789",
+}
